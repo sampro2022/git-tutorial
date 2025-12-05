@@ -1,2 +1,2 @@
 console.log('I am verable ');
-console.log( "i am veriable in index.js file version3");
+console.log( "i am veriable in index.js file version6");
